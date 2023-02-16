@@ -43,5 +43,10 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  assets:
+    - assets/images/icon/icon.png
+    - assets/images/icon/
+    - assets/images/
+    - assets/images/icon/checked.svg
 
   uses-material-design: true
