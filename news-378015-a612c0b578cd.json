@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "news-378015",
+  "private_key_id": "a612c0b578cdbe008bf0e3cea5b7d73eea743c31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfVhysNXnZbR9m\nxm6pINPiUa+03pOu5BXHuHoU55HnFCd7+E2ObQy0yF03CZV0BQdvEsf6wPk0p/yV\n2QOr269iLq9k6D0gwqhkY6jcziHH06bEYvoiUTZBeXFkgDxZ12CXMechZDBAdKLB\n9ddDZBpO0MelSZuaNWew/GP+Xd6d4HmkjkLDzCKYDeJDVxxOA0oALlFpXwQxe13Z\nz7VJMIEbkhnEqTDYAAao9X+6XLgXrS7YXIc3mgUrO9x2lTkqWRFOQM2xpjip1GNB\noaBV4OGree/qx27XoGOr0EC7s/+hzhRE8SdBAVrj9pOEMM3vDx0/yTu2JwTpoJdn\no6cgQc/LAgMBAAECggEABwbglBKCqPKkAEnSBYRA5mgHjTtLjj8i6EvHm4zFrG2X\n6HChkA+iTLXZKPgmOaZG25nNrPgRXzTB370aPngFBqPNZPFhqvw07COulnPt4Cmq\nn5c1o4rGmDzH8o+OVo1OPrOVQBm04vJIhK3FfhtSMJSlE3BDcxCnGIx4YPJ3JKRy\nXNsnhIxsKk/Cga2YorJPITTRtxjWhoPDtrru+ExfwFOq0CoIDKextkPpULX0Uwmm\nzcQyK48/2LLpYjkdZPnZMGKVvTEAxlnblWj8bLc1+6nZ3m50bjpPQ8Y/Boh6MVk0\noa+QUBrDnZZMKrIPXJBGBGzrZyobWmbqx8zyKzPOMQKBgQD9eyrOcCfLsz9a7c8l\n6PsfmoZg7HDJk9Lbc/Cs7eoHEH0CkXYGd6aWdgrUTUUHehmZ7drcbVnPurwouxey\nK7mgKejKz0x8EMZ8TNgwpQTzc4LyDrr2EzWC4YIz3WW3wNIkfGKZ0UQ45PXtPbcJ\nlnGO2VoZSby76lqxx0TfQkPY3QKBgQDhjkJiPM42xYepLEzT2CCFVgTwQAcbKWqn\nVWcjw+RkGwvDC9z6XmUQHF4us3PuEkgeDSUO4uejcaVvD1rP+/xJYnKQccb+em8+\nsqrqY66nGHNzBfi/snKjcvaMZjBk8653/atbEn3ZskmuWJLWpKQwNOfUscChVGhD\npN+nUjNsxwKBgGT7taEKo4AOiBX0mcsTl0AO8qwYZhKYdq+A8AgkvFBWLEdipe+L\nqW1V15ies/p3lU1yqfeZBOeyEBX1+0m7C7eYGqr5jRH8KOcKQjKW+3L1uNwwLCGu\no2nh51o8QLLE+bMZbrqy2QgFh0gdhxclvVXYl4Ftk+gVRE6BAZokLx1tAoGBAJ6u\nUHGASasqyEfyDJK06Bwl6g+DW/x15LyYTplQxSrQBDRR8kKJihwNeQzt3s9MOUQ7\nBykz5LaNy08YxFCx/Ek8Y1DPWqnJRN4dIDUJr+OKRh5Twy5JwnDO/jjD46QB82oj\nIhxOJA+1aDSpx5QN/ByV+8scymI1WazNHzM9l0QdAoGAIP37je/WokzONk4FKCvE\neXjokN7Ch6qA+2MHF/wEKuP14MLQqtbddXg55FMbkAYNUaO1BCh6/1S71pLoUowZ\nFlgRPTCZGNOXhnabx8iZgg9cDqumWrqrA7bV7hc5HZodW4MMsvugQMPEvLE1hP2k\n8ImL0Q0ao1aTIFAz9aWu/go=\n-----END PRIVATE KEY-----\n",
+  "client_email": "news-app@news-378015.iam.gserviceaccount.com",
+  "client_id": "110332334339889131894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/news-app%40news-378015.iam.gserviceaccount.com"
+}
